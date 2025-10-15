@@ -1,8 +1,17 @@
-# project name
+# Question 10
 
-## Description
+## Challenge
+Email Domain Counter
 
+Scenario: Count how many people use each email provider from a list of emails. 
 
+Data: 
+emails = ["john@gmail.com", "sarah@yahoo.com", "mike@gmail.com", "emma@outlook.com", "alex@gmail.com"]
+
+Tasks: 
+a) Extract just the domain part (after @) from each email.
+b) Count how many times each domain appears (which data structure lets you store counts?).
+c) Which email provider is most popular?
 
 ### Methodology: Pseudo Code
 * plot the story
