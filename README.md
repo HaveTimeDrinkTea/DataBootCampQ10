@@ -20,10 +20,6 @@ c) Which email provider is most popular?
 
 ## User Story
 
-AS A 
-
-I WANT to
-SO THAT I
 
 
 
